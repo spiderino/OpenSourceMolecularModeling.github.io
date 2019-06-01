@@ -413,6 +413,7 @@ Model Building
 | Open3DGRID | <http://open3dgrid.sourceforge.net>       |   GPL   |    B1    |          |
 | Open3DQSAR | <http://open3dqsar.sourceforge.net>       |   GPL   |    B1    |          |
 | QSAR-tools | <https://github.com/dkoes/qsar-tools>     |   BSD   |    A3    |          |
+| www.3d-qsar.com | <https://www.3d-qsar.com>            |   GPL   |    A3    |          |
 
 AZOrange is a machine learning package that supports QSAR model building in a full work flow from descriptor computation to automated model building, validation and selection. It promotes model accuracy by using several high performance machine learning algorithms for efficient data set specific selection of the statistical approach.
 
@@ -425,6 +426,8 @@ eTOXLab provides a portable modeling framework embedded in a self-contained virt
 Open3DGrid and Open3DQSAR are a suite of related tools that build 3D QSAR models. Open3DGrid generates molecular interaction fields (MIFs) in a variety of formats, and Open3DQSAR builds predictive models from the MIFs of aligned molecules. Calculations can be visualized in real time in PyMOL.
 
 QSAR-tools is a set of Python scripts that use RDKit to build linear QSAR models from 2D chemical data.
+
+www.3d-qsar.com is a set of free to use web applications to build CoMFA like 3-D QSAR models from scratch
 
 Model Application 
 -----------------
